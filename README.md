@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sk Md Ziad Rahman</h1>
-<h3 align="center">Project Manager & QA Engineer | API, Performance & Database Testing</h3>
+<h1 align="center">Hi, I'm Sk Md Ziad Rahman</h1>
+<h3 align="center">Project Manager & QA Engineer</h3>
 
 <p align="center">
   <a href="https://skziad.com"><img src="https://img.shields.io/badge/Portfolio-skziad.com-blue?style=flat-square" alt="Portfolio"/></a>
@@ -11,11 +11,11 @@
 ### 🧭 About Me
 
 - 🔍 QA Engineer focused on **API automation, performance testing, and database testing**
-- 🧪 I build end-to-end test suites — from requirement to CI pipeline
+- 🧪 I build end-to-end test suites — from requirements to CI pipeline
 - 🛠️ Comfortable across the QA stack: Postman/Newman, JMeter, SQL, and GitHub Actions
 - 📈 Also work as a **Project Manager**, bridging QA process with delivery timelines
 - 🌱 Currently sharpening my skills in database testing and CI-driven QA workflows
-- 📫 Reach me via my portfolio: [skziad.com](https://skziad.com)
+- 📫 Reach me via my website: [skziad.com](https://skziad.com)
 
 ---
 
@@ -48,20 +48,5 @@
 | 💼 [Portfolio Website](https://github.com/skmdziadrahman/Portfolio_Sk_Md_Ziad_Rahman) | Personal portfolio site built with HTML/CSS/JS, featuring an interactive contact form |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skmdziadrahman&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skmdziadrahman" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://skziad.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>

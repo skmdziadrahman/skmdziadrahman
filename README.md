@@ -2,8 +2,7 @@
 <h3 align="center">QA Engineer</h3>
 
 <p align="center">
-  <a href="https://skziad.com"><img src="https://img.shields.io/badge/Portfolio-skziad.com-blue?style=flat-square" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-informational?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Rampura, Dhaka%2C%20Bangladesh-informational?style=flat-square" alt="Location"/>
 </p>
 
 ---

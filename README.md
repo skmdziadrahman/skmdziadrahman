@@ -1,17 +1,9 @@
 <h1 align="center">Hi, I'm Sk Md Ziad Rahman</h1>
-<h3 align="center">QA Engineer</h3>
+<h3 align="center">Project Manager & QA Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Rampura, Dhaka%2C%20Bangladesh-informational?style=flat-square" alt="Location"/>
 </p>
-
----
-
-### 🧭 About Me
-
-- 🔍 QA Engineer focused on **API automation, performance testing, and database testing**
-- 🧪 I build end-to-end test suites — from requirements to CI pipeline
-- 🛠️ Comfortable across the QA stack: Postman/Newman, JMeter, SQL, and GitHub Actions
 
 ---
 
@@ -28,20 +20,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🏨 [API Automation Testing for Hotel Booking](https://github.com/skmdziadrahman/API-Automation-Testing-for-Hotel-Booking-Project) | End-to-end API automation using Postman, JavaScript, and Newman — CRUD operations, authentication, request chaining, automated assertions, HTML reporting |
-| 📊 [Data-Driven Testing for Hotel Booking](https://github.com/skmdziadrahman/Data-Driven-Testing-for-Hotel-Booking-Project) | Data-driven Postman/Newman test suite using CSV input data and GitHub Actions CI |
-| 🎓 [Student Details API Automation Testing](https://github.com/skmdziadrahman/Student-Details-API-Automation-Testing-project) | API automation with dynamic test data, request chaining, automated assertions, and CI via GitHub Actions |
-| ⚡ [Hotel Booking API Performance Testing](https://github.com/skmdziadrahman/Hotel-booking-api-performance-testing) | Apache JMeter suite covering smoke, load, stress, spike, endurance, scalability, capacity, and volume testing |
-| ⚡ [Portfolio Website Performance Testing](https://github.com/skmdziadrahman/Portfolio-website-performance-testing) | JMeter performance test plans (load, stress, spike, endurance, and more) against my live portfolio site |
-| 🗄️ [Database Testing for Employee & Payroll System](https://github.com/skmdziadrahman/Database-Testing-for-Employee-Payroll-System) | MySQL database testing project — schema design, constraint validation, CRUD/JOIN testing, views, stored procedures, triggers, and documented test cases |
-
 
 ---
 
